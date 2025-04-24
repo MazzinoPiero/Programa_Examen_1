@@ -1,0 +1,15 @@
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.AssemblyInfoInputs.cache
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.AssemblyInfo.cs
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.csproj.CoreCompileInputs.cache
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.sourcelink.json
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/bin/Debug/net8.0/JuegoDeFabrica
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/bin/Debug/net8.0/JuegoDeFabrica.deps.json
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/bin/Debug/net8.0/JuegoDeFabrica.runtimeconfig.json
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/bin/Debug/net8.0/JuegoDeFabrica.dll
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/bin/Debug/net8.0/JuegoDeFabrica.pdb
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.dll
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/refint/JuegoDeFabrica.dll
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.pdb
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/JuegoDeFabrica.genruntimeconfig.cache
+/Users/pieromazzino/Documents/TOULOUSE/2025-01/TANAKA/Programa_Examen_1/JuegoDeFabrica/JuegoDeFabrica/obj/Debug/net8.0/ref/JuegoDeFabrica.dll
